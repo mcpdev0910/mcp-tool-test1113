@@ -1,3 +1,2 @@
-这是一个测试文件，用于验证create_or_update_file工具的成功调用。
-创建时间：2025年11月13日
-这是通过GitHub MCP Server工具创建的测试内容。
+这是一个测试文件，用于创建 pull request
+这是更新后的内容，添加了新的一行
