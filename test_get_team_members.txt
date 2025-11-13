@@ -1,0 +1,8 @@
+测试 get_team_members 工具调用
+
+尝试调用了以下组织/团队组合：
+1. github/maintainers - 返回 null
+2. microsoft/vscode - 返回 null  
+3. facebook/react - 返回 null
+
+工具调用本身是成功的，只是这些组织的团队信息可能不公开或需要特定权限。
