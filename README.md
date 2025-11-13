@@ -1,2 +1,7 @@
-# mcp-tool-test1113
-测试仓库用于调用list_commits工具
+# MCP Tool Test Repository
+
+This is a test repository for MCP tool testing.
+
+## Test Release
+
+This repository contains test releases for the get_release_by_tag tool.
