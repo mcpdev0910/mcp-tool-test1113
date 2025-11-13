@@ -1,0 +1,6 @@
+这是一个测试文件，用于验证 create_or_update_file 工具的功能。
+
+创建时间：2025年1月13日
+操作：成功调用 create_or_update_file 工具
+
+这个文件是通过 GitHub MCP Server 创建的，证明工具调用成功！
