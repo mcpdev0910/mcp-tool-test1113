@@ -1,0 +1,2 @@
+Version 1.0.0
+This is a test release for get_latest_release tool testing.
