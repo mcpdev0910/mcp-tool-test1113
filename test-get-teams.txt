@@ -1,0 +1,1 @@
+This file is created to test operations before calling get_teams tool.
