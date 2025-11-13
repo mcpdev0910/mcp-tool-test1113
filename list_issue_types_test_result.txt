@@ -1,0 +1,20 @@
+List Issue Types Test Results
+=============================
+
+Test Date: 2025-11-13
+
+Attempted to call list_issue_types with various organizations:
+
+1. mcpdev0910 (personal account) - 404 Not Found
+2. github - 404 Not Found  
+3. microsoft - 404 Not Found
+4. google - 404 Not Found
+5. vercel - 404 Not Found
+
+Conclusion:
+- The list_issue_types tool requires an organization that has enabled issue types functionality
+- Personal accounts (like mcpdev0910) do not support this feature
+- Many large organizations may not have this feature enabled
+- This appears to be a relatively new or specialized GitHub feature
+
+Tool call was successful in terms of making the API request, but the endpoint returned 404 for all tested organizations.
