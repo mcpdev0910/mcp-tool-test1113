@@ -1,0 +1,20 @@
+{
+  "tool": "push_files",
+  "description": "测试 JSON 配置文件",
+  "timestamp": "2024-11-13T00:00:00Z",
+  "files": [
+    {
+      "name": "test-push-file-1.txt",
+      "type": "text"
+    },
+    {
+      "name": "test-push-file-2.md", 
+      "type": "markdown"
+    },
+    {
+      "name": "test-push-file-3.json",
+      "type": "json"
+    }
+  ],
+  "success": true
+}
