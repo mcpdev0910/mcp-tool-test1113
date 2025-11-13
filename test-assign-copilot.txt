@@ -1,0 +1,10 @@
+This file was created to test operations in preparation for assign_copilot_to_issue tool.
+
+Current available tools include:
+- File operations
+- Repository operations  
+- Branch operations
+- Pull request operations
+- Workflow operations
+
+Note: assign_copilot_to_issue tool is not currently available in the tool set.
